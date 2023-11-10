@@ -1,0 +1,15 @@
+Terminada esta homework, se sube los avances de este al repositorio. 
+
+Para esto se ejecutan los siguientes comandos:
+
+// Comando para chequear el estado del repositorio (en local)
+   git status
+
+// Comando para guardar los cambios en Git (en local).
+   git add .
+
+// Comando para darle un título a los cambios.
+git commmit -m "tuMensaje"
+
+// Comando para subir los cambios al repositorio (remoto) de GitHub.
+git push
